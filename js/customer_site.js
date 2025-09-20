@@ -10,7 +10,7 @@ const CUSTOMER_SITES = {
     ysgc: {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '影视工厂',
-    }   
+    },
 };
 
 // 调用全局方法合并
